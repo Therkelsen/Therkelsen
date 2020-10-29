@@ -1,5 +1,5 @@
-### Hi there, I'm Therkelsen 👋
-**I'm a Robotics engineering student at SDU, Odense, Denmark.**
+## Hi there, I'm Therkelsen 👋
+### I'm a Robotics engineering student at SDU, Odense, Denmark.**
 
 - 🔭 I’m currently working on [a Drawing Robot project](https://github.com/Therkelsen/Drawing-Robot)
 - 🌱 I’m currently learning [Java](https://github.com/Therkelsen/Java-Learning) and PLC programming (Structured text)
