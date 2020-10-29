@@ -8,11 +8,11 @@
 
 
 ### My socials:
-[<img align="left" alt="Therkelsen | Facebook" width="45px" src="Assets\facebook.png" />][facebook]
-[<img align="left" alt="Therkelsen | Twitter" width="45px" src="Assets\twitter.png" />][twitter]
-[<img align="left" alt="Therkelsen | LinkedIn" width="45px" src="Assets\linkedin.png" />][linkedin]
-[<img align="left" alt="Therkelsen | Instagram" width="45px" src="Assets\instagram.png" />][instagram]
-[<img align="left" alt="Therkelsen | YouTube" width="45px" src="Assets\youtube.png" />][youtube]
+[<img align="left" alt="Therkelsen | Facebook" width="75px" src="Assets\facebook.png" />][facebook]
+[<img align="left" alt="Therkelsen | Twitter" width="75px" src="Assets\twitter.png" />][twitter]
+[<img align="left" alt="Therkelsen | LinkedIn" width="75px" src="Assets\linkedin.png" />][linkedin]
+[<img align="left" alt="Therkelsen | Instagram" width="75px" src="Assets\instagram.png" />][instagram]
+[<img align="left" alt="Therkelsen | YouTube" width="75px" src="Assets\youtube.png" />][youtube]
 
 <br />
 <br />
