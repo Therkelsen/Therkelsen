@@ -1,4 +1,4 @@
-# Hi there, I'm Therkelsen 👋
+## Hi there, I'm Therkelsen 👋
 ## I study Robotics engineering at SDU, Odense, Denmark.
 ###
 
