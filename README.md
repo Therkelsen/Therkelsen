@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Therkelsen 👋
 
 - 🔭 I’m currently working on [a Drawing Robot project](https://github.com/Therkelsen/Drawing-Robot)
 - 🌱 I’m currently learning Java and PLC programming (Structured text)
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
-- ⚡ Fun fact: In the 1800's, Tomato sauce was sold as medicine! 🍅
-
+- ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
 
 ### My socials:
 [<img align="left" alt="Therkelsen | Facebook" width="75px" src="Assets\facebook.png" />][facebook]
