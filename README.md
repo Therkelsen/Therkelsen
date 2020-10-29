@@ -1,5 +1,4 @@
-## Hi there, I'm Therkelsen 👋
-**I study Robotics engineering at SDU, Odense, Denmark.**
+### Hi there, I'm Therkelsen, I study Robotics engineering at SDU, Odense, Denmark.👋
 ###
 
 - 🔭 I’m currently working on [a Drawing Robot project](https://github.com/Therkelsen/Drawing-Robot)
@@ -8,7 +7,7 @@
 - 💬 Ask me about anything 😁
 - ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
 
-## My socials:
+### My socials:
 [<img align="left" alt="Therkelsen | Facebook" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/facebook.png" />][facebook]
 [<img align="left" alt="Therkelsen | Twitter" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/twitter.png" />][twitter]
 [<img align="left" alt="Therkelsen | LinkedIn" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/linkedin.png" />][linkedin]
@@ -20,7 +19,7 @@
 <br />
 <br />
 
-## My stats:
+### My stats:
 
 [![Therkelsen's github stats](https://github-readme-stats.vercel.app/api?username=Therkelsen&count_private=true&show_icons=true&theme=dracula)](https://github.com/Therkelsen/github-readme-stats)
 
