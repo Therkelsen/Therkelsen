@@ -14,8 +14,6 @@
 [<img align="left" alt="Therkelsen | Instagram" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/instagram.png" />][instagram]
 [<img align="left" alt="Therkelsen | YouTube" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/youtube.png" />][youtube]
 
-<a href="https://www.facebook.com/ththdk" img border="0" alt="Therkelsen | Facebook" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/facebook.png" width="75" height="75" target="_blank">>
-
 <br />
 <br />
 <br />
