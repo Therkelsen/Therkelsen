@@ -7,12 +7,12 @@
 - ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
 
 ### My socials:
-[<img align="left" alt="Therkelsen | Facebook" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/facebook.png" />][facebook]
-[<img align="left" alt="Therkelsen | Twitter" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/twitter.png" />][twitter]
-[<img align="left" alt="Therkelsen | LinkedIn" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Therkelsen | Discord" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord.png" />][discord]
-[<img align="left" alt="Therkelsen | Instagram" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/instagram.png" />][instagram]
-[<img align="left" alt="Therkelsen | YouTube" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/youtube.png" />][youtube]
+[<img align="left" alt="Therkelsen | Facebook" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/facebook.png" target="_blank" />][facebook]
+[<img align="left" alt="Therkelsen | Twitter" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/twitter.png" target="_blank"/>][twitter]
+[<img align="left" alt="Therkelsen | LinkedIn" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/linkedin.png" target="_blank"/>][linkedin]
+[<img align="left" alt="Therkelsen | Discord" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord.png" target="_blank"/>][discord]
+[<img align="left" alt="Therkelsen | Instagram" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/instagram.png" target="_blank"/>][instagram]
+[<img align="left" alt="Therkelsen | YouTube" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/youtube.png" target="_blank"/>][youtube]
 
 <br />
 <br />
@@ -28,7 +28,7 @@
 
 <br />
 
-[facebook]: https://www.facebook.com/ththdk/{:target="_blank"}
+[facebook]: https://www.facebook.com/ththdk/
 [twitter]: https://twitter.com/Sir_Therkelsen
 [youtube]: https://www.youtube.com/channel/UCytpc76LlLA_jsBqBjV0d5w
 [discord]: https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord_contact.png
