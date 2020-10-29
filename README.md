@@ -6,7 +6,6 @@
 - 💬 Ask me about anything 😁
 - ⚡ Fun fact: In the 1800's, Tomato sauce was sold as medicine! 🍅
 
-<br />
 
 ### My socials:
 [<img align="left" alt="Therkelsen | Facebook" width="45px" src="Assets\facebook.png" />][facebook]
@@ -15,6 +14,7 @@
 [<img align="left" alt="Therkelsen | Instagram" width="45px" src="Assets\instagram.png" />][instagram]
 [<img align="left" alt="Therkelsen | YouTube" width="45px" src="Assets\youtube.png" />][youtube]
 
+<br />
 <br />
 
 ### My stats:
