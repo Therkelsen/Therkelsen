@@ -27,8 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therkelsen&langs_count=10&layout=compact&theme=dracula)](https://github.com/Therkelsen/github-readme-stats)
 
-<img src="https://github.com/Therkelsen/Therkelsen/blob/master/images/stat.svg" alt="Alternative Text"/>
-
 <br />
 
 [facebook]: https://www.facebook.com/ththdk/
