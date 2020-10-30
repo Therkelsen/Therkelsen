@@ -27,6 +27,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therkelsen&langs_count=10&layout=compact&theme=dracula)](https://github.com/Therkelsen/github-readme-stats)
 
+<img src="https://github.com/<username>/<repository-name>/blob/master/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 <br />
 
 [facebook]: https://www.facebook.com/ththdk/
