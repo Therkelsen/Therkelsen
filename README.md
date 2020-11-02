@@ -35,5 +35,3 @@
 [discord]: https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord_contact.png
 [instagram]: https://www.instagram.com/thoamstherkelsen/
 [linkedin]: https://www.linkedin.com/in/thomastherkelsen/
-
-<br />
