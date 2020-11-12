@@ -1,0 +1,15 @@
+:root {
+    --app-bg: url(https://data.1freewallpapers.com/download/neon-ring-sci-fi-huawei-mediapad-m6-stock.jpg) !important;
+    --app-blur: 256px !important;
+    --app-margin: 0px !important;
+    --app-radius: 8px !important;
+    --app-accent: #ff008a !important;
+    --app-accent-text: #fff !important;
+    --sidebar-color: transparent;
+    --main-content-color: transparent;
+    --textarea-color: transparent;
+    --textarea-radius: 8px;
+    --button-color: #ff008a;
+    --button-text-color: #FFF;
+    --popout-color: rgba(0,0,0,0.7);
+}
