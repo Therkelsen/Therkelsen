@@ -1,5 +1,5 @@
 /**
- * @name CMD ClearVision
+ * @name Neon ClearVision
  * @author Revised by Therkelsen, Original by ClearVision Team
  * @version 1
  * @description CMD Theme
@@ -16,17 +16,18 @@
 /* SETTINGS */
 :root {
 
+	--font: Trebuchet MS; /*Bahnschrift is cool, Courier for console looking thing*/
+
 	/* ACCENT COLORS */
-	--main-color: #b1b1b1; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-	--hover-color: #fff; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+	--main-color: #ff008a; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+	--hover-color: #d40059; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
 	--success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
 	--danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
 	
 	/* Customization Patch */
-	--channel-unread: rgba(255,255,255,1); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
-	--channel-color:  rgba(255,255,255,0.6); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
-	--channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
-	--muted-color: rgba(255,255,255,0.3); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
+	--channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
+	--channel-color:  rgba(255,255,255,0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
+	--muted-color: rgba(255,255,255,0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 	--url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/     
 
 	/* STATUS COLORS */
@@ -37,29 +38,28 @@
 	--offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
 	/* GENERAL */
-	--main-font: Courier, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif] */
+	--main-font: Trebuchet MS, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif] */
 	--code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
-	--text-normal: rgb(220, 221, 222); /* color of default discord text */
-	--text-muted:  rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
-	--channels-width: 300px; /* channel list width (240px for Discord default) [default: 220px] */
+	--server-columns: 1; /* amount of server list columns [default: 1] */
+	--channels-width: 220px; /* channel list width (240px for Discord default) [default: 220px] */
 	--members-width: 240px; /* member list width [default: 240px] */
 	--avatar-roundness: 50%; /* avatar roundness (0% for squares, 50% for circles) [default: 50%] */
 
 	/* APP BACKGROUND */
 	--background-shading: 0%; /* app background shading (0 for complete smoothness) [default: 100%] */
-	--background-overlay: rgba(0, 0, 0, 0.7); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-	--background-image: url(); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+	--background-overlay: rgba(0, 0, 0, 0.5); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+	--background-image: url(https://data.1freewallpapers.com/download/neon-ring-sci-fi-huawei-mediapad-m6-stock.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
 	--background-position: center; /* app background position [default: center] */
 	--background-size: cover; /* app background size [default: cover] */
 	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
 	--background-attachment: fixed; /* app background attachment [default: fixed] */
-	--background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+	--background-brightness: 150%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
 	--background-contrast: 100%; /* app background contrast [default: 100%] */
-	--background-saturation: 100%; /* app background saturation [default: 100%] */
+	--background-saturation: 150%; /* app background saturation [default: 100%] */
 	--background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
 	--background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
 	--background-sepia: 0%; /* app background sepia (0 - 100%) [default: 0%] */
-	--background-blur: 0px; /* app background blur [default: 0px] */
+	--background-blur: 128px; /* app background blur [default: 0px] */
 	
 	/* HOME BUTTON ICON */
 	--home-icon: url(https://clearvision.gitlab.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.gitlab.io/icons/discord.svg)]*/
