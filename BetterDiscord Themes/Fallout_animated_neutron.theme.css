@@ -1,0 +1,90 @@
+/**
+ * @name Fallout Animated Neutron
+ * @version 1
+ * @description Fallout version of the Neutron theme
+ * @author Update by Therkelsen#1337, Original by Spectra#7698
+ * @invite PZdnCVD
+ * @source https://github.com/codedotspectra/themes
+ * @website https://codedotspectra.me/
+ *//*
+$$\   $$\ $$$$$$$$\ $$\   $$\ $$$$$$$$\ $$$$$$$\   $$$$$$\  $$\   $$\
+$$$\  $$ |$$  _____|$$ |  $$ |\__$$  __|$$  __$$\ $$  __$$\ $$$\  $$ |
+$$$$\ $$ |$$ |      $$ |  $$ |   $$ |   $$ |  $$ |$$ /  $$ |$$$$\ $$ |
+$$ $$\$$ |$$$$$\    $$ |  $$ |   $$ |   $$$$$$$  |$$ |  $$ |$$ $$\$$ |
+$$ \$$$$ |$$  __|   $$ |  $$ |   $$ |   $$  __$$< $$ |  $$ |$$ \$$$$ |
+$$ |\$$$ |$$ |      $$ |  $$ |   $$ |   $$ |  $$ |$$ |  $$ |$$ |\$$$ |
+$$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
+\__|  \__|\________| \______/    \__|   \__|  \__| \______/ \__|  \__|
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://cdn.exsersewo.dev/static/fonts/');
+ /* Custom font import link (see fonts.google.com) */
+/*##########################################################################
+
+                 CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
+
+##########################################################################*/
+
+@font-face {
+  font-family: Monofonto;
+  src: url(https://cdn.exsersewo.dev/static/fonts/monofonto.ttf);
+}
+
+@font-face {
+  font-family: Overseer;
+  src: url(https://cdn.exsersewo.dev/static/fonts/Overseer.otf);
+}
+
+:root {
+  /* COLORS */
+  --themeColor1: #30be3c; /* Theme's color 1 */
+  --themeColor2: var(--themeColor1); /* Theme's color 2 */
+  --text-link: var(--themeColor1); /* Link text color */
+  --channels-default: rgba(48, 190, 60, 0.4);
+  --interactive-normal: rgba(48, 190, 60, 0.6);
+  --interactive-hover: var(--interactive-normal);
+  --interactive-active: rgba(48, 190, 60, 0.8); /* Active channel color */
+  --interactive-muted: rgba(48, 190, 60, 0.2);
+  --background-message-hover: rgba(48, 190, 60, 0.3);
+
+  --header-primary: var(--themeColor1);
+  --header-secondary: var(--themeColor1);
+  
+  --scrollbar-auto-track: var(--channels-default);
+
+  --background-primary: var(--interactive-normal);
+
+  /* CUSTOM FONT */
+  --customFont: Monofonto; /* Custom font, change the name in 'font name here', you must import the font first */
+
+  /* HOME BUTTON */
+  --homeImage: url('https://i.imgur.com/dVku0k4.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --homeImageSize: contain;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
+
+  /* BACKGROUND */
+  --backgroundColor: #0d0d0d; /* Background color */
+  --backgroundImage: url('https://i.pinimg.com/originals/23/b3/d5/23b3d51adae2efe32552524828eccd25.gif'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient" https://i.imgur.com/U68xIvp.png */
+  --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
+  --backgroundSize: 85%; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
+  --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
+  --backgroundBlur: 8px; /* Set to 0 to remove blur | Set to 10px for average blur */
+  --backgroundOpacity: .65; /* 0 is transparent */
+
+  /* CODE BLOCKS */
+  --backgroundCode: rgba(0,0,0,.5);
+  --backgroundName: rgba(0,0,0,.5);
+
+  --bd-blue: var(--themeColor1);
+    --bd-blue-hover: var(--themeColor1);
+    --bd-blue-active: var(--themeColor1);
+    --blurple: var(--themeColor1);
+	
+}
+
+ * {
+  font-family: var(--customFont) !important;
+  font-size: 15px;
+  text-transform:uppercase;
+  letter-spacing: 0.1em;
+}
