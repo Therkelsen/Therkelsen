@@ -41,6 +41,19 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor1: #30be3c; /* Theme's color 1 */
   --themeColor2: var(--themeColor1); /* Theme's color 2 */
   --text-link: var(--themeColor1); /* Link text color */
+  --channels-default: rgba(48, 190, 60, 0.4);
+  --interactive-normal: rgba(48, 190, 60, 0.6);
+  --interactive-hover: var(--interactive-normal);
+  --interactive-active: rgba(48, 190, 60, 0.8); /* Active channel color */
+  --interactive-muted: rgba(48, 190, 60, 0.2);
+  --background-message-hover: rgba(48, 190, 60, 0.3);
+
+  --header-primary: var(--themeColor1);
+  --header-secondary: var(--themeColor1);
+  
+  --scrollbar-auto-track: var(--channels-default);
+
+  --background-primary: var(--interactive-normal);
 
   /* CUSTOM FONT */
   --customFont: Monofonto; /* Custom font, change the name in 'font name here', you must import the font first */
@@ -73,4 +86,5 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   font-family: var(--customFont) !important;
   font-size: 15px;
   text-transform:uppercase;
+  letter-spacing: 0.1em;
 }
