@@ -21,11 +21,13 @@
 
 ### My stats:
 
-[![Therkelsen's github stats](https://github-readme-stats.vercel.app/api?username=Therkelsen&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+#[![Therkelsen's github stats](https://github-readme-stats.vercel.app/api?username=Therkelsen&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Therkelsen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&?hide=Other,other&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therkelsen&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/Therkelsen?template=classic&followup=1&languages=1&posts=1&stars=1&posts.limit=4&posts.source=dev.to&stars.limit=5&config.timezone=Europe%2FCopenhagen&config.animated=true)
+
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therkelsen&langs_count=10&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
