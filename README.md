@@ -2,7 +2,8 @@
 **I study Robotics engineering at SDU, Odense, Denmark.**
 
 - 🔭 I recently finished [a Drawing Robot project](https://github.com/Therkelsen/Drawing-Robot), and I'm currently working on my Minecraft server called GameCloud MC
-- 🌱 I’m currently learning [Java](https://github.com/Therkelsen/Java-Learning) and PLC programming (Structured text)
+- 🌱 I’m currently learning [C++](https://github.com/Therkelsen/CPP-Learning) and SQL
+- 👨‍💻 I know Java, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
 - ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
