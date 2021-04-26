@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robotics engineering at SDU, Odense, Denmark.**
 
-- 🔭 I recently finished [a Drawing Robot project](https://github.com/Therkelsen/Drawing-Robot), and I'm currently working on my Minecraft server called GameCloud MC
+- 🔭 I'm currently working on [a UR5 Custom Gripper project](https://github.com/Therkelsen/UR5_Gripper)
 - 🌱 I’m currently learning [C++](https://github.com/Therkelsen/CPP-Learning) and SQL
 - 👨‍💻 I know Java, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
