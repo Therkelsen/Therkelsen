@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robotics engineering at SDU, Odense, Denmark.**
 
-- 🔭 I'm currently working on [a Beer Pong robot. (No Repo yet](https://github.com/Therkelsen)
+- 🔭 I'm currently working on [a Beer Pong robot. (No Repo yet)](https://github.com/Therkelsen)
 - 🌱 I'm currently learning Computer Vision and Signal Processing.
 - 👨‍💻 I know C++, Java, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
