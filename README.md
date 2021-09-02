@@ -1,9 +1,9 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robotics engineering at SDU, Odense, Denmark.**
 
-- 🔭 I'm currently working on [a UR5 Custom Gripper project](https://github.com/Therkelsen/UR5_Gripper)
-- 🌱 I’m currently learning [C++](https://github.com/Therkelsen/CPP-Learning) and SQL
-- 👨‍💻 I know Java, Structured Text, Arduino, HTML, and more 
+- 🔭 I'm currently working on [a Beer Pong robot.]()
+- 🌱 I'm currently learning Computer Vision and Signal Processing.
+- 👨‍💻 I know C++, Java, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
 - ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
