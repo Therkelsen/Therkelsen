@@ -2,7 +2,7 @@
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
 - 🔭 I'm currently working on [a Beer Pong robot.](https://github.com/Therkelsen/Computerized_Alcoholism)
-- 🌱 I'm currently learning about OpenCV.
+- 🌱 I'm currently learning about OpenCV and Python.
 - 👨‍💻 I know C++, Java, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
