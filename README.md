@@ -2,8 +2,7 @@
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
 - 🔭 I recently finished [a Beer Pong robot.](https://github.com/Therkelsen/Computerized_Alcoholism)
-- 🌱 I'm currently learning about OpenCV and Python.
-- 👨‍💻 I know C++, Java, Structured Text, Arduino, HTML, and more 
+- 👨‍💻 I know C++, Java, Structured Text, Python, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
 - ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
