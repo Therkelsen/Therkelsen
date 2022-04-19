@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
-- 🔭 I recently finished [a Beer Pong robot.](https://github.com/Therkelsen/Computerized_Alcoholism)
+- 🔭 I'm currently working on [an Inverted Pendulum Control System.](https://github.com/Therkelsen/Inverted_Pendulum)
 - 👨‍💻 I know C++, Java, Structured Text, Python, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
