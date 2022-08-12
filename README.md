@@ -1,8 +1,8 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
-- 🔭 I'm currently working on [an Inverted Pendulum Control System.](https://github.com/Therkelsen/Inverted_Pendulum)
-- 👨‍💻 I know C++, Java, Structured Text, Python, Arduino, HTML, and more 
+- 🔭 I'm recently finished [an Inverted Pendulum Control System.](https://github.com/Therkelsen/Inverted_Pendulum)
+- 👨‍💻 I know C++, Java, Python, SQL, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
 - ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
