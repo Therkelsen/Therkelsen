@@ -20,9 +20,9 @@
 
 ### My stats:
 
-![Refresh the site to load!](https://metrics.lecoq.io/Therkelsen?template=classic&followup=1&languages=1&posts=1&stars=1&posts.limit=4&posts.source=dev.to&stars.limit=5&config.timezone=Europe%2FCopenhagen&config.animated=true)
-
 [![Therkelsen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Refresh the site to load!](https://metrics.lecoq.io/Therkelsen?template=classic&followup=1&languages=1&posts=1&stars=1&posts.limit=4&posts.source=dev.to&stars.limit=5&config.timezone=Europe%2FCopenhagen&config.animated=true)
 
 <br />
 
