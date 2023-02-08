@@ -24,6 +24,14 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therkelsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 [facebook]: https://www.facebook.com/ththdk/
 [twitter]: https://twitter.com/Sir_Therkelsen
 [youtube]: https://www.youtube.com/channel/UCytpc76LlLA_jsBqBjV0d5w
