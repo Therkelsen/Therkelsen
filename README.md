@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### My stats:
+### My time spent coding in the past week:
 
 [![Therkelsen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
