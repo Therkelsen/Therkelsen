@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
-- 🔭 I'm recently finished [an Inverted Pendulum Control System.](https://github.com/Therkelsen/Inverted_Pendulum)
+- 🔭 I've recently finished [an Inverted Pendulum Control System.](https://github.com/Therkelsen/Inverted_Pendulum)
 - 👨‍💻 I know C++, Java, Python, SQL, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### My time spent coding in the past week:
+### My time spent coding in the past week (These below embeds are broken rn):
 
 [![Therkelsen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
