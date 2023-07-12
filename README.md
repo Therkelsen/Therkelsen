@@ -1,11 +1,11 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
-- 🔭 I'm currently working on [a vanilla style Minecraft modpack.](https://github.com/Therkelsen/echoes_of_the_wilderness)
-- 👨‍💻 I know C++, Java, Python, SQL, Structured Text, Arduino, HTML, and more 
-- 👯 I’m looking to collaborate on anything interesting, hit me up!
-- 💬 Ask me about anything 😁
-- ⚡ Fun fact: [In the 1800's, Tomato sauce was sold as medicine! 🍅](https://www.ripleys.com/weird-news/ketchup-was-once-used-as-medicine/)
+- 🔭 Currently developing [a vanilla-style Minecraft modpack.](https://github.com/Therkelsen/echoes_of_the_wilderness)
+- 👨‍💻 Proficient in C++, Java, Python, SQL, Structured Text, Arduino, HTML, and other languages.
+- 👯 Seeking exciting collaboration opportunities in any interesting projects. Feel free to reach out!
+- 💬 Ask me anything you'd like to know. 😁
+- ⚡ Fun fact: [The recipe for beer, is one of the oldest ones known to man! 🍻](https://www.realmofhistory.com/2017/09/22/oldest-beer-recipe-mesopotamia-ninkasi/)
 
 ### My socials:
 [<img align="left" alt="Therkelsen | Facebook" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/facebook.png" />][facebook]
