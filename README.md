@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
-- 🔭 I'm not currently working on anything I can share, but the most recent project I've finished was [an Inverted Pendulum Control System.](https://github.com/Therkelsen/Inverted_Pendulum)
+- 🔭 I'm currently working on [a vanilla style Minecraft modpack.](https://github.com/Therkelsen/echoes_of_the_wilderness)
 - 👨‍💻 I know C++, Java, Python, SQL, Structured Text, Arduino, HTML, and more 
 - 👯 I’m looking to collaborate on anything interesting, hit me up!
 - 💬 Ask me about anything 😁
