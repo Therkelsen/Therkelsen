@@ -22,7 +22,7 @@
 
 [![Therkelsen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Therkelsen&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
-[![Therkelsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=therkelsen?theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Therkelsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=therkelsen&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Therkelsen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
