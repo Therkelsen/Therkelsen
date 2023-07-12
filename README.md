@@ -20,8 +20,9 @@
 
 ### My time spent coding:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therkelsen" alt="Therkelsen's LangStat" />
+[![Therkelsen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Therkelsen&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
 
+[![Therkelsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=therkelsen)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Therkelsen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
