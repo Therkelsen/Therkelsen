@@ -30,7 +30,7 @@
 
 [facebook]: https://www.facebook.com/ththdk/
 [twitter]: https://twitter.com/Sir_Therkelsen
-[youtube]: https://www.youtube.com/channel/UCytpc76LlLA_jsBqBjV0d5w
+[youtube]: https://youtube.com/@sirtherkelsen
 [discord]: https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord_contact.png
 [instagram]: https://www.instagram.com/thomastherkelsen/
 [linkedin]: https://www.linkedin.com/in/thomastherkelsen/
