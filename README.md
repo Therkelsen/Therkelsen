@@ -12,7 +12,7 @@
 [<img align="left" alt="Therkelsen | Twitter" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/twitter.png" />][twitter]
 [<img align="left" alt="Therkelsen | LinkedIn" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/linkedin.png" />][linkedin]
 [<img align="left" alt="Therkelsen | Instagram" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/instagram.png" />][instagram]
-[<img align="left" alt="Therkelsen | YouTube" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/youtube.png" />][yt_test]
+[<img align="left" alt="Therkelsen | YouTube" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/youtube.png" />][youtube]
 
 
 <br />
@@ -35,4 +35,3 @@
 [discord]: https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord_contact.png
 [instagram]: https://www.instagram.com/thomastherkelsen/
 [linkedin]: https://www.linkedin.com/in/thomastherkelsen/
-[yt_test]: <a href="https://youtube.com/@sirtherkelsen" target="_blank">Youtube link</a>
