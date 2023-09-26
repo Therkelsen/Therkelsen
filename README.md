@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **I study Robot Systems engineering at SDU, Odense, Denmark.**
 
-- 🔭 Currently developing [a vanilla-style Minecraft modpack.](https://github.com/Therkelsen/echoes_of_the_wilderness)
+- 🔭 Currently working on [my bachelor project](https://github.com/Therkelsen/MUSE) and developing [a vanilla-style Minecraft modpack.](https://github.com/Therkelsen/echoes_of_the_wilderness)
 - 👨‍💻 Proficient in C++, Java, Python, SQL, Structured Text, Arduino, HTML, and other languages.
 - 👯 Seeking exciting collaboration opportunities in any interesting projects. Feel free to reach out!
 - 💬 Ask me anything you'd like to know. 😁
