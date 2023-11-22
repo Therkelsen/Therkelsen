@@ -20,7 +20,7 @@
 
 ### Coding Stats:
 
-[![Therkelsen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Therkelsen&theme=github-dark-blue&mode=weekly&hide_border=true)](https://git.io/streak-stats)
+[![Therkelsen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=@Therkelsen&theme=github-dark-blue&mode=weekly&hide_border=true)](https://git.io/streak-stats)
 
 [![Therkelsen's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
