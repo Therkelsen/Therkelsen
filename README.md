@@ -1,5 +1,5 @@
 ## Hi there, I'm Therkelsen 👋
-**I study Robot Systems engineering at SDU, Odense, Denmark.**
+**Educated B.Eng. in Robot Systems engineering @ SDU, Odense, Denmark.**
 
 - 🔭 Recently finished [my bachelor project](https://github.com/Therkelsen/MUSE), currently working full time for [MiR A/S](https://mobile-industrial-robots.com/)
 - 👨‍💻 Proficient in C++, Python, MATLAB, Maple, Java, Structured Text, MySQL, and more.
