@@ -1,7 +1,7 @@
 ## Hi there, I'm Therkelsen 👋
 **Educated B.Eng. in Robot Systems engineering @ SDU, Odense, Denmark.**
 
-- 🔭 Recently finished [my bachelor project](https://github.com/Therkelsen/MUSE), currently working full time for [MiR A/S](https://mobile-industrial-robots.com/)
+- 🔭 I'm currently pursuing the [M.Eng. in Robot Systems - Drones and Autonomous Systems]([https://github.com/Therkelsen/MUSE](https://www.sdu.dk/en/uddannelse/kandidat/robotteknologi/uddannelsens_opbygning/drone)) at SDU Odense, while working part time for [MiR A/S](https://mobile-industrial-robots.com/) and as an instructor in the Algorithms and Datastructures course at SDU.
 - 👨‍💻 Proficient in C++, Python, MATLAB, Maple, Java, Structured Text, MySQL, and more.
 - 👯 Seeking exciting collaboration opportunities in any interesting projects. Feel free to reach out!
 - 💬 Ask me anything you'd like to know. 😁
