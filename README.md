@@ -1,5 +1,5 @@
 ## Hi there, I'm Thomas Therkelsen 👋
-**Robotics Software Engineer | M.Sc. in Engineering (Robot Systems) with a Drones & Autonomous Systems Specialization | B.Eng. in Robot Systems
+**Robotics Software Engineer | M.Sc. in Engineering (Robot Systems) with a Drones & Autonomous Systems Specialization | B.Eng. in Robot Systems**
 
 I am a robotics engineer specializing in the simulation, integration, and development of autonomous systems, hardware-in-the-loop testing, and computer vision applications.
 
