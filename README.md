@@ -1,31 +1,15 @@
-## Hi there, I'm Therkelsen 👋
-**Educated B.Eng. in Robot Systems engineering @ SDU, Odense, Denmark.**
+## Hi there, I'm Thomas Therkelsen 👋
+**Robotics Software Engineer | M.Sc. in Engineering (Robot Systems) with a Drones & Autonomous Systems Specialization | B.Eng. in Robot Systems
 
-- 🔭 I'm currently pursuing the [M.Eng. in Robot Systems - Drones and Autonomous Systems]([https://github.com/Therkelsen/MUSE](https://www.sdu.dk/en/uddannelse/kandidat/robotteknologi/uddannelsens_opbygning/drone)) at SDU Odense, while working part time for [MiR A/S](https://mobile-industrial-robots.com/) and as an instructor in the Algorithms and Datastructures course at SDU.
-- 👨‍💻 Proficient in C++, Python, MATLAB, Maple, Java, Structured Text, MySQL, and more.
-- 👯 Seeking exciting collaboration opportunities in any interesting projects. Feel free to reach out!
-- 💬 Ask me anything you'd like to know. 😁
-- ⚡ Fun fact: [The recipe for beer, is one of the oldest ones known to man! 🍻](https://www.realmofhistory.com/2017/09/22/oldest-beer-recipe-mesopotamia-ninkasi/)
+I am a robotics engineer specializing in the simulation, integration, and development of autonomous systems, hardware-in-the-loop testing, and computer vision applications.
 
-### My socials:
-[<img align="left" alt="Therkelsen | Twitter" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/twitter.png" />][twitter]
-[<img align="left" alt="Therkelsen | LinkedIn" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/linkedin.png" />][linkedin]
-[<img align="left" alt="Therkelsen | Instagram" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/instagram.png" />][instagram]
-[<img align="left" alt="Therkelsen | YouTube" width="75px" src="https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/youtube.png" />][youtube]
+- 🎓 **Education:** Recently graduated with an [M.Eng. in Robot Systems](https://www.sdu.dk/en/uddannelse/kandidat/robotteknologi/uddannelsens_opbygning/drone) from SDU Odense.
+- 👨‍💻 **Experience:** 3+ years in R&D Robot Software at [Mobile Industrial Robots (MiR)](https://mobile-industrial-robots.com/) and Algorithms/Data Structures Instructor at SDU.
+- 🛠️ **Core Stack:** C++, Python, ROS/ROS2, Bazel, MATLAB/Simulink, and Linux.
+- 🚀 **Currently:** Seeking full-time roles in robotics software engineering, navigation, or computer vision.
+- 📫 **Reach out:** [LinkedIn](https://linkedin.com/in/thomastherkelsen) | thomastherkelsen@outlook.com
+- ⚡ **Fun fact:** [The recipe for beer is one of the oldest known to man! 🍻](https://www.realmofhistory.com/2017/09/22/oldest-beer-recipe-mesopotamia-ninkasi/)
 
-<br />
-<br />
-<br />
-
-### Coding Stats:
-
-[![Therkelsen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=@Therkelsen&theme=github-dark-blue&mode=weekly&hide_border=true)](https://git.io/streak-stats)
-
-[![Therkelsen's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Therkelsen&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-
-[twitter]: https://twitter.com/Sir_Therkelsen
-[youtube]: https://youtube.com/@sirtherkelsen
-[discord]: https://raw.githubusercontent.com/Therkelsen/Therkelsen/main/Assets/discord_contact.png
-[instagram]: https://www.instagram.com/thomastherkelsen/
-[linkedin]: https://www.linkedin.com/in/thomastherkelsen/
+---
+### 📊 GitHub Stats
+[![Therkelsen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Therkelsen&theme=github-dark-blue&mode=weekly&hide_border=true)](https://git.io/streak-stats)
